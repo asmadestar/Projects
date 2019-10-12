@@ -1,0 +1,12 @@
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\ConfigurationReadingE7\ConfigurationReadingE7\bin\Debug\netcoreapp2.1\ConfigurationReadingE7.deps.json
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\ConfigurationReadingE7\ConfigurationReadingE7\bin\Debug\netcoreapp2.1\ConfigurationReadingE7.runtimeconfig.json
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\ConfigurationReadingE7\ConfigurationReadingE7\bin\Debug\netcoreapp2.1\ConfigurationReadingE7.runtimeconfig.dev.json
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\ConfigurationReadingE7\ConfigurationReadingE7\bin\Debug\netcoreapp2.1\ConfigurationReadingE7.dll
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\ConfigurationReadingE7\ConfigurationReadingE7\obj\Debug\netcoreapp2.1\ConfigurationReadingE7.csprojAssemblyReference.cache
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\ConfigurationReadingE7\ConfigurationReadingE7\obj\Debug\netcoreapp2.1\ConfigurationReadingE7.csproj.CoreCompileInputs.cache
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\ConfigurationReadingE7\ConfigurationReadingE7\obj\Debug\netcoreapp2.1\ConfigurationReadingE7.AssemblyInfoInputs.cache
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\ConfigurationReadingE7\ConfigurationReadingE7\obj\Debug\netcoreapp2.1\ConfigurationReadingE7.AssemblyInfo.cs
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\ConfigurationReadingE7\ConfigurationReadingE7\bin\Debug\netcoreapp2.1\ConfigurationReadingE7.pdb
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\ConfigurationReadingE7\ConfigurationReadingE7\obj\Debug\netcoreapp2.1\ConfigurationReadingE7.dll
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\ConfigurationReadingE7\ConfigurationReadingE7\obj\Debug\netcoreapp2.1\ConfigurationReadingE7.pdb
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\ConfigurationReadingE7\ConfigurationReadingE7\bin\Debug\netcoreapp2.1\appsettings.json

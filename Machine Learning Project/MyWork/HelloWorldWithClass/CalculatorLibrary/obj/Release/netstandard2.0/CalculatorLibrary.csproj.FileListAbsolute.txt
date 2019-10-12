@@ -1,0 +1,9 @@
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\HelloWorldWithClass\CalculatorLibrary\bin\Release\netstandard2.0\CalculatorLibrary.deps.json
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\HelloWorldWithClass\CalculatorLibrary\bin\Release\netstandard2.0\CalculatorLibrary.dll
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\HelloWorldWithClass\CalculatorLibrary\bin\Release\netstandard2.0\CalculatorLibrary.pdb
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\HelloWorldWithClass\CalculatorLibrary\obj\Release\netstandard2.0\CalculatorLibrary.csprojAssemblyReference.cache
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\HelloWorldWithClass\CalculatorLibrary\obj\Release\netstandard2.0\CalculatorLibrary.csproj.CoreCompileInputs.cache
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\HelloWorldWithClass\CalculatorLibrary\obj\Release\netstandard2.0\CalculatorLibrary.AssemblyInfoInputs.cache
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\HelloWorldWithClass\CalculatorLibrary\obj\Release\netstandard2.0\CalculatorLibrary.AssemblyInfo.cs
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\HelloWorldWithClass\CalculatorLibrary\obj\Release\netstandard2.0\CalculatorLibrary.dll
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\HelloWorldWithClass\CalculatorLibrary\obj\Release\netstandard2.0\CalculatorLibrary.pdb

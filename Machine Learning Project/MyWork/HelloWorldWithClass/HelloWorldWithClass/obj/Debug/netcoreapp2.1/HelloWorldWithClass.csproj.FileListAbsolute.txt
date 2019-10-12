@@ -1,0 +1,14 @@
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\HelloWorldWithClass\HelloWorldWithClass\bin\Debug\netcoreapp2.1\HelloWorldWithClass.deps.json
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\HelloWorldWithClass\HelloWorldWithClass\bin\Debug\netcoreapp2.1\HelloWorldWithClass.runtimeconfig.json
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\HelloWorldWithClass\HelloWorldWithClass\bin\Debug\netcoreapp2.1\HelloWorldWithClass.runtimeconfig.dev.json
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\HelloWorldWithClass\HelloWorldWithClass\bin\Debug\netcoreapp2.1\HelloWorldWithClass.dll
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\HelloWorldWithClass\HelloWorldWithClass\bin\Debug\netcoreapp2.1\HelloWorldWithClass.pdb
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\HelloWorldWithClass\HelloWorldWithClass\bin\Debug\netcoreapp2.1\CalculatorLibrary.dll
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\HelloWorldWithClass\HelloWorldWithClass\bin\Debug\netcoreapp2.1\CalculatorLibrary.pdb
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\HelloWorldWithClass\HelloWorldWithClass\obj\Debug\netcoreapp2.1\HelloWorldWithClass.csprojAssemblyReference.cache
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\HelloWorldWithClass\HelloWorldWithClass\obj\Debug\netcoreapp2.1\HelloWorldWithClass.csproj.CoreCompileInputs.cache
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\HelloWorldWithClass\HelloWorldWithClass\obj\Debug\netcoreapp2.1\HelloWorldWithClass.AssemblyInfoInputs.cache
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\HelloWorldWithClass\HelloWorldWithClass\obj\Debug\netcoreapp2.1\HelloWorldWithClass.AssemblyInfo.cs
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\HelloWorldWithClass\HelloWorldWithClass\obj\Debug\netcoreapp2.1\HelloWorldWithClass.csproj.CopyComplete
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\HelloWorldWithClass\HelloWorldWithClass\obj\Debug\netcoreapp2.1\HelloWorldWithClass.dll
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\HelloWorldWithClass\HelloWorldWithClass\obj\Debug\netcoreapp2.1\HelloWorldWithClass.pdb

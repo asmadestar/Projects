@@ -1,0 +1,14 @@
+C:\Users\asmaderf\Desktop\new_repos\se-dystsys-2018-2019-softwareengineering\MyMachineLearningProject\UnitTestSpatialPoolerPart2b\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\asmaderf\Desktop\new_repos\se-dystsys-2018-2019-softwareengineering\MyMachineLearningProject\UnitTestSpatialPoolerPart2b\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\asmaderf\Desktop\new_repos\se-dystsys-2018-2019-softwareengineering\MyMachineLearningProject\UnitTestSpatialPoolerPart2b\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\asmaderf\Desktop\new_repos\se-dystsys-2018-2019-softwareengineering\MyMachineLearningProject\UnitTestSpatialPoolerPart2b\bin\Debug\netcoreapp2.1\UnitTestSpatialPoolerPart2b.deps.json
+C:\Users\asmaderf\Desktop\new_repos\se-dystsys-2018-2019-softwareengineering\MyMachineLearningProject\UnitTestSpatialPoolerPart2b\bin\Debug\netcoreapp2.1\UnitTestSpatialPoolerPart2b.runtimeconfig.json
+C:\Users\asmaderf\Desktop\new_repos\se-dystsys-2018-2019-softwareengineering\MyMachineLearningProject\UnitTestSpatialPoolerPart2b\bin\Debug\netcoreapp2.1\UnitTestSpatialPoolerPart2b.runtimeconfig.dev.json
+C:\Users\asmaderf\Desktop\new_repos\se-dystsys-2018-2019-softwareengineering\MyMachineLearningProject\UnitTestSpatialPoolerPart2b\bin\Debug\netcoreapp2.1\UnitTestSpatialPoolerPart2b.dll
+C:\Users\asmaderf\Desktop\new_repos\se-dystsys-2018-2019-softwareengineering\MyMachineLearningProject\UnitTestSpatialPoolerPart2b\obj\Debug\netcoreapp2.1\UnitTestSpatialPoolerPart2b.csprojAssemblyReference.cache
+C:\Users\asmaderf\Desktop\new_repos\se-dystsys-2018-2019-softwareengineering\MyMachineLearningProject\UnitTestSpatialPoolerPart2b\obj\Debug\netcoreapp2.1\UnitTestSpatialPoolerPart2b.csproj.CoreCompileInputs.cache
+C:\Users\asmaderf\Desktop\new_repos\se-dystsys-2018-2019-softwareengineering\MyMachineLearningProject\UnitTestSpatialPoolerPart2b\obj\Debug\netcoreapp2.1\UnitTestSpatialPoolerPart2b.AssemblyInfoInputs.cache
+C:\Users\asmaderf\Desktop\new_repos\se-dystsys-2018-2019-softwareengineering\MyMachineLearningProject\UnitTestSpatialPoolerPart2b\obj\Debug\netcoreapp2.1\UnitTestSpatialPoolerPart2b.AssemblyInfo.cs
+C:\Users\asmaderf\Desktop\new_repos\se-dystsys-2018-2019-softwareengineering\MyMachineLearningProject\UnitTestSpatialPoolerPart2b\bin\Debug\netcoreapp2.1\UnitTestSpatialPoolerPart2b.pdb
+C:\Users\asmaderf\Desktop\new_repos\se-dystsys-2018-2019-softwareengineering\MyMachineLearningProject\UnitTestSpatialPoolerPart2b\obj\Debug\netcoreapp2.1\UnitTestSpatialPoolerPart2b.dll
+C:\Users\asmaderf\Desktop\new_repos\se-dystsys-2018-2019-softwareengineering\MyMachineLearningProject\UnitTestSpatialPoolerPart2b\obj\Debug\netcoreapp2.1\UnitTestSpatialPoolerPart2b.pdb

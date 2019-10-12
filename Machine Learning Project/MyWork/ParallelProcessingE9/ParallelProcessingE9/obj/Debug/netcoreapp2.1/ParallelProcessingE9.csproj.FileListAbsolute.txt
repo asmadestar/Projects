@@ -1,0 +1,11 @@
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\ParallelProcessingE9\ParallelProcessingE9\bin\Debug\netcoreapp2.1\ParallelProcessingE9.deps.json
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\ParallelProcessingE9\ParallelProcessingE9\bin\Debug\netcoreapp2.1\ParallelProcessingE9.runtimeconfig.json
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\ParallelProcessingE9\ParallelProcessingE9\bin\Debug\netcoreapp2.1\ParallelProcessingE9.runtimeconfig.dev.json
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\ParallelProcessingE9\ParallelProcessingE9\bin\Debug\netcoreapp2.1\ParallelProcessingE9.dll
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\ParallelProcessingE9\ParallelProcessingE9\bin\Debug\netcoreapp2.1\ParallelProcessingE9.pdb
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\ParallelProcessingE9\ParallelProcessingE9\obj\Debug\netcoreapp2.1\ParallelProcessingE9.csprojAssemblyReference.cache
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\ParallelProcessingE9\ParallelProcessingE9\obj\Debug\netcoreapp2.1\ParallelProcessingE9.csproj.CoreCompileInputs.cache
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\ParallelProcessingE9\ParallelProcessingE9\obj\Debug\netcoreapp2.1\ParallelProcessingE9.AssemblyInfoInputs.cache
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\ParallelProcessingE9\ParallelProcessingE9\obj\Debug\netcoreapp2.1\ParallelProcessingE9.AssemblyInfo.cs
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\ParallelProcessingE9\ParallelProcessingE9\obj\Debug\netcoreapp2.1\ParallelProcessingE9.dll
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\ParallelProcessingE9\ParallelProcessingE9\obj\Debug\netcoreapp2.1\ParallelProcessingE9.pdb

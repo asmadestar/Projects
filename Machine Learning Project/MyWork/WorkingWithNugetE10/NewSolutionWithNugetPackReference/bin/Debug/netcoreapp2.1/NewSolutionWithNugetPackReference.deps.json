@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "70a2266b980b172eba74a8f38a852a3bec85f1a6"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "NewSolutionWithNugetPackReference/1.0.0": {
+        "dependencies": {
+          "ClassLibraryNuget": "1.0.0"
+        },
+        "runtime": {
+          "NewSolutionWithNugetPackReference.dll": {}
+        }
+      },
+      "ClassLibraryNuget/1.0.0": {
+        "runtime": {
+          "lib/netcoreapp2.1/ClassLibraryNuget.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NewSolutionWithNugetPackReference/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryNuget/1.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-NFlge+kGzNPPT2f2Mcljg4Z1qPWxhHpA1FHT5AoPSoHLthbNrB5QrfPbbS/Aju125TQOhxYGgbqXVP0dPV/3Fw==",
+      "path": "classlibrarynuget/1.0.0",
+      "hashPath": "classlibrarynuget.1.0.0.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\WorkingWithNugetE10\ClassLibraryNuget\bin\Debug\netcoreapp2.1\ClassLibraryNuget.deps.json
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\WorkingWithNugetE10\ClassLibraryNuget\bin\Debug\netcoreapp2.1\ClassLibraryNuget.dll
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\WorkingWithNugetE10\ClassLibraryNuget\bin\Debug\netcoreapp2.1\ClassLibraryNuget.pdb
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\WorkingWithNugetE10\ClassLibraryNuget\obj\Debug\netcoreapp2.1\ClassLibraryNuget.csprojAssemblyReference.cache
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\WorkingWithNugetE10\ClassLibraryNuget\obj\Debug\netcoreapp2.1\ClassLibraryNuget.csproj.CoreCompileInputs.cache
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\WorkingWithNugetE10\ClassLibraryNuget\obj\Debug\netcoreapp2.1\ClassLibraryNuget.AssemblyInfoInputs.cache
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\WorkingWithNugetE10\ClassLibraryNuget\obj\Debug\netcoreapp2.1\ClassLibraryNuget.AssemblyInfo.cs
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\WorkingWithNugetE10\ClassLibraryNuget\obj\Debug\netcoreapp2.1\ClassLibraryNuget.dll
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\WorkingWithNugetE10\ClassLibraryNuget\obj\Debug\netcoreapp2.1\ClassLibraryNuget.pdb

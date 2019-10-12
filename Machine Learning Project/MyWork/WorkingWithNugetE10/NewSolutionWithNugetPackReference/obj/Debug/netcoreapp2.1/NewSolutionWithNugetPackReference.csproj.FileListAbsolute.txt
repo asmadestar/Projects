@@ -1,0 +1,11 @@
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\WorkingWithNugetE10\NewSolutionWithNugetPackReference\bin\Debug\netcoreapp2.1\NewSolutionWithNugetPackReference.deps.json
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\WorkingWithNugetE10\NewSolutionWithNugetPackReference\bin\Debug\netcoreapp2.1\NewSolutionWithNugetPackReference.runtimeconfig.json
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\WorkingWithNugetE10\NewSolutionWithNugetPackReference\bin\Debug\netcoreapp2.1\NewSolutionWithNugetPackReference.runtimeconfig.dev.json
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\WorkingWithNugetE10\NewSolutionWithNugetPackReference\bin\Debug\netcoreapp2.1\NewSolutionWithNugetPackReference.dll
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\WorkingWithNugetE10\NewSolutionWithNugetPackReference\obj\Debug\netcoreapp2.1\NewSolutionWithNugetPackReference.csprojAssemblyReference.cache
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\WorkingWithNugetE10\NewSolutionWithNugetPackReference\obj\Debug\netcoreapp2.1\NewSolutionWithNugetPackReference.csproj.CoreCompileInputs.cache
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\WorkingWithNugetE10\NewSolutionWithNugetPackReference\obj\Debug\netcoreapp2.1\NewSolutionWithNugetPackReference.AssemblyInfoInputs.cache
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\WorkingWithNugetE10\NewSolutionWithNugetPackReference\obj\Debug\netcoreapp2.1\NewSolutionWithNugetPackReference.AssemblyInfo.cs
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\WorkingWithNugetE10\NewSolutionWithNugetPackReference\bin\Debug\netcoreapp2.1\NewSolutionWithNugetPackReference.pdb
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\WorkingWithNugetE10\NewSolutionWithNugetPackReference\obj\Debug\netcoreapp2.1\NewSolutionWithNugetPackReference.dll
+C:\Users\asmaderf\Desktop\repos\se-dystsys-2018-2019-softwareengineering\MyWork\WorkingWithNugetE10\NewSolutionWithNugetPackReference\obj\Debug\netcoreapp2.1\NewSolutionWithNugetPackReference.pdb
